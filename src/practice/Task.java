@@ -13,7 +13,7 @@ public class Task {
 
     @Override
     public String toString() {
-        return date + ":" + task;
+        return this.date + ":" + this.task;
     }
 
 }
